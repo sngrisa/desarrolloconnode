@@ -1,0 +1,19 @@
+{
+  "name": "proyectos-node",
+  "version": "1.0.0",
+  "description": "Desarrollo con Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sngrisa/desarrolloconnode.git"
+  },
+  "author": "Santiago Grisafi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sngrisa/desarrolloconnode/issues"
+  },
+  "homepage": "https://github.com/sngrisa/desarrolloconnode#readme"
+}
