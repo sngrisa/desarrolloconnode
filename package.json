@@ -4,7 +4,8 @@
   "description": "Desarrollo con Node",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "servidor": "node servidor.js"
   },
   "repository": {
     "type": "git",
