@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sngrisa/desarrolloconnode/issues"
   },
-  "homepage": "https://github.com/sngrisa/desarrolloconnode#readme"
+  "homepage": "https://github.com/sngrisa/desarrolloconnode#readme",
+  "dependencies": {
+    "open-iconic": "^1.1.1"
+  }
 }
