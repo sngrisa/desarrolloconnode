@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/sngrisa/desarrolloconnode#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "open-iconic": "^1.1.1"
   }
 }
